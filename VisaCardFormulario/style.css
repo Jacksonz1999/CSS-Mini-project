@@ -70,12 +70,12 @@ body {
 .front .group .name,
 .front .group .expiration{
   color: #fff;
-  font-size: 10px;
+  font-size: 15px;
   text-transform: uppercase;
 }
 
 .front .group .label{
-  font-size: 16px;
+  font-size: 20px;
   color: #7d8994;
   font-weight: 700;
   margin-bottom: 5px;
@@ -85,6 +85,7 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+/* Style of card back */
 /* Style of card back */
 .card .back{
   width: 100%;
